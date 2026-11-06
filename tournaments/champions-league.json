@@ -1,0 +1,347 @@
+{
+    "teams": [
+        {
+            "id": "T001",
+            "name": "Rangers International FC"
+        },
+        {
+            "id": "T002",
+            "name": "Enyimba FC"
+        },
+        {
+            "id": "T003",
+            "name": "Kano Pillars FC"
+        },
+        {
+            "id": "T004",
+            "name": "Rivers United FC"
+        },
+        {
+            "id": "T005",
+            "name": "Shooting Stars FC (3SC)"
+        },
+        {
+            "id": "T006",
+            "name": "Bendel Insurance FC"
+        },
+        {
+            "id": "T007",
+            "name": "Plateau United FC"
+        },
+        {
+            "id": "T008",
+            "name": "Ikorodu City FC"
+        }
+    ],
+    "fixtures": [
+        {
+            "fixture_id": "F001",
+            "round": 1,
+            "home_team_id": "T001",
+            "away_team_id": "T008",
+            "home_team": "Rangers International FC",
+            "away_team": "Ikorodu City FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F002",
+            "round": 1,
+            "home_team_id": "T002",
+            "away_team_id": "T007",
+            "home_team": "Enyimba FC",
+            "away_team": "Plateau United FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F003",
+            "round": 1,
+            "home_team_id": "T003",
+            "away_team_id": "T006",
+            "home_team": "Kano Pillars FC",
+            "away_team": "Bendel Insurance FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F004",
+            "round": 1,
+            "home_team_id": "T004",
+            "away_team_id": "T005",
+            "home_team": "Rivers United FC",
+            "away_team": "Shooting Stars FC (3SC)",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F005",
+            "round": 2,
+            "home_team_id": "T001",
+            "away_team_id": "T007",
+            "home_team": "Rangers International FC",
+            "away_team": "Plateau United FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F006",
+            "round": 2,
+            "home_team_id": "T008",
+            "away_team_id": "T006",
+            "home_team": "Ikorodu City FC",
+            "away_team": "Bendel Insurance FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F007",
+            "round": 2,
+            "home_team_id": "T002",
+            "away_team_id": "T005",
+            "home_team": "Enyimba FC",
+            "away_team": "Shooting Stars FC (3SC)",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F008",
+            "round": 2,
+            "home_team_id": "T003",
+            "away_team_id": "T004",
+            "home_team": "Kano Pillars FC",
+            "away_team": "Rivers United FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F009",
+            "round": 3,
+            "home_team_id": "T001",
+            "away_team_id": "T006",
+            "home_team": "Rangers International FC",
+            "away_team": "Bendel Insurance FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F010",
+            "round": 3,
+            "home_team_id": "T007",
+            "away_team_id": "T005",
+            "home_team": "Plateau United FC",
+            "away_team": "Shooting Stars FC (3SC)",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F011",
+            "round": 3,
+            "home_team_id": "T008",
+            "away_team_id": "T004",
+            "home_team": "Ikorodu City FC",
+            "away_team": "Rivers United FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F012",
+            "round": 3,
+            "home_team_id": "T002",
+            "away_team_id": "T003",
+            "home_team": "Enyimba FC",
+            "away_team": "Kano Pillars FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F013",
+            "round": 4,
+            "home_team_id": "T001",
+            "away_team_id": "T005",
+            "home_team": "Rangers International FC",
+            "away_team": "Shooting Stars FC (3SC)",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F014",
+            "round": 4,
+            "home_team_id": "T006",
+            "away_team_id": "T004",
+            "home_team": "Bendel Insurance FC",
+            "away_team": "Rivers United FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F015",
+            "round": 4,
+            "home_team_id": "T007",
+            "away_team_id": "T003",
+            "home_team": "Plateau United FC",
+            "away_team": "Kano Pillars FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F016",
+            "round": 4,
+            "home_team_id": "T008",
+            "away_team_id": "T002",
+            "home_team": "Ikorodu City FC",
+            "away_team": "Enyimba FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F017",
+            "round": 5,
+            "home_team_id": "T001",
+            "away_team_id": "T004",
+            "home_team": "Rangers International FC",
+            "away_team": "Rivers United FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F018",
+            "round": 5,
+            "home_team_id": "T005",
+            "away_team_id": "T003",
+            "home_team": "Shooting Stars FC (3SC)",
+            "away_team": "Kano Pillars FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F019",
+            "round": 5,
+            "home_team_id": "T006",
+            "away_team_id": "T002",
+            "home_team": "Bendel Insurance FC",
+            "away_team": "Enyimba FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F020",
+            "round": 5,
+            "home_team_id": "T007",
+            "away_team_id": "T008",
+            "home_team": "Plateau United FC",
+            "away_team": "Ikorodu City FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F021",
+            "round": 6,
+            "home_team_id": "T001",
+            "away_team_id": "T003",
+            "home_team": "Rangers International FC",
+            "away_team": "Kano Pillars FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F022",
+            "round": 6,
+            "home_team_id": "T004",
+            "away_team_id": "T002",
+            "home_team": "Rivers United FC",
+            "away_team": "Enyimba FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F023",
+            "round": 6,
+            "home_team_id": "T005",
+            "away_team_id": "T008",
+            "home_team": "Shooting Stars FC (3SC)",
+            "away_team": "Ikorodu City FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F024",
+            "round": 6,
+            "home_team_id": "T006",
+            "away_team_id": "T007",
+            "home_team": "Bendel Insurance FC",
+            "away_team": "Plateau United FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F025",
+            "round": 7,
+            "home_team_id": "T001",
+            "away_team_id": "T002",
+            "home_team": "Rangers International FC",
+            "away_team": "Enyimba FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F026",
+            "round": 7,
+            "home_team_id": "T003",
+            "away_team_id": "T008",
+            "home_team": "Kano Pillars FC",
+            "away_team": "Ikorodu City FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F027",
+            "round": 7,
+            "home_team_id": "T004",
+            "away_team_id": "T007",
+            "home_team": "Rivers United FC",
+            "away_team": "Plateau United FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        },
+        {
+            "fixture_id": "F028",
+            "round": 7,
+            "home_team_id": "T005",
+            "away_team_id": "T006",
+            "home_team": "Shooting Stars FC (3SC)",
+            "away_team": "Bendel Insurance FC",
+            "home_score": null,
+            "away_score": null,
+            "played": false
+        }
+    ],
+    "name": "Champions League"
+}
